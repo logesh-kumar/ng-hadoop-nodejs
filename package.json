@@ -7,10 +7,11 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
+    "angular": "^1.6.4",
     "angular-chart.js": "^1.1.1",
     "body-parser": "^1.17.2",
     "d3": "^4.9.1",
-    "express": "^4.15.3",
+    "express": "^4.15.3",  
     "method-override": "^2.3.9",
     "mongojs": "^2.4.0",
     "morgan": "^1.8.2"

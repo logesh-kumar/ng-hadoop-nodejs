@@ -8,11 +8,11 @@ app.config(['$routeProvider', function ($routeProvider) {
         }).
 
         when('/technical', {
-            templateUrl: '/partials/technical.htm',
+            templateUrl: '/partials/technical.html',
             controller: 'TechnicalController'
         }).
         when('/business', {
-            templateUrl: '/partials/business.htm',
+            templateUrl: '/partials/business.html',
             controller: 'BusinessController'
         }).
 
